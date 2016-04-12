@@ -1,5 +1,9 @@
 # Archer
-An UNFINISHED game about a lonely archer in a wasteland
+An UNFINISHED game about a lonely archer in a wasteland.
+
+Features:
+* Procedurally generated map
+* an animated dog sprite, woop woop
 
 http://www.justgoscha.com/Archer/
 
