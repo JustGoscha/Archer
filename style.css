@@ -1,0 +1,11 @@
+body {
+  background-color: rgba(30, 22, 24, 1);
+}
+
+#game-container{
+  margin:auto;
+  width: 700px;
+}
+
+#game{
+}

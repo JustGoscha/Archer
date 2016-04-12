@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+	"ternjs": {
+    "exclude": ["wordpress/**", "node_modules/**"],
+    "libs": ["browser", "phaser"],
+    "plugins": {
+      "requirejs": {
+          "baseURL": "./js"
+      }
+    }
+	}
+}
+
