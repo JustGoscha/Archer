@@ -5,7 +5,7 @@ Features:
 * Procedurally generated map
 * an animated dog sprite, woop woop
 
-http://www.justgoscha.com/Archer/
+http://justgoscha.github.io/Archer/
 
 Controls
 
